@@ -21,3 +21,5 @@ public class GasStation {
         return res;
     }
 }
+
+// TC: O(n), SC :O(1)
