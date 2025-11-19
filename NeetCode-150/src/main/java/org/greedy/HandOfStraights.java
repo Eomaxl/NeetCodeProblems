@@ -1,5 +1,7 @@
 package org.greedy;
 
+import java.util.HashMap;
+
 public class HandOfStraights {
 
     public boolean isNStraightHand(int[] hand, int groupSize) {
