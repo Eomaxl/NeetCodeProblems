@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="NeetCode-150" />
         <module name="KunalSheet" />
+        <module name="LocalPractice" />
       </profile>
     </annotationProcessing>
   </component>

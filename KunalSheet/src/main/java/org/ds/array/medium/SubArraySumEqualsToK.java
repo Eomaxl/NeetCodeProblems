@@ -20,7 +20,9 @@ public class SubArraySumEqualsToK {
         int target1 = 2;
         int[] arr2 = {1,2,3};
         int target2 = 3;
+        int[] arr3 = {1,2,3,4,5};
         System.out.println(subarraySumCount(arr2, target2));
         System.out.println(subarraySumCount(arr1, target1));
+        System.out.println(subarraySumCount(arr3, 9));
     }
 }
